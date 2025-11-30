@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="" alt="NST Club Banner" width="100%" />
+<p align="center">
+  <img src="Logo (Base).png" alt="NST Club Banner" width="150px" />
+</p>
 
+<div align="center">
   <p align="center">
     <img src="https://img.shields.io/badge/Founded-2021-purple?style=for-the-badge" />
   </p>
