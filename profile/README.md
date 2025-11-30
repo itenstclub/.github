@@ -35,7 +35,7 @@ We are a course-based club of student enthusiasts passionate about all fields of
 
 We don't just talk about security; we practice it. Our activities are designed to simulate real-world operational environments & increase awareness.
 
-*   **🚩 Capture The Flag (CTF):** Training for and participating in local & regional CTF competitions.
+*   **🚩 Capture The Flag (CTF):** Training & participating in local & regional CTF competitions.
 *   **🛠️ Workshops:** Hands-on sessions on penetration testing, network defense, and scripting.
 *   **📢 Webinars:** Hosting talks with the public to educate them about the latest scams & how to protect against it.
 
@@ -58,7 +58,7 @@ We utilize industry-standard tools & environments to sharpen our skills:
 
 | Event | Date | Location | Status |
 | :--- | :--- | :--- | :--- |
-| **NST Club Bonding Day** | TBD | ITE College Central (Zoom) | ⏳ Upcoming |
+| **NST Club Bonding Day** | TBD | On-Site | ⏳ Upcoming |
 | **Internal CTF Competition** | TBD | Online | ⏳ Upcoming |
 
 _(Stay tuned to our [Instagram](https://instagram.com/itenstclub) for the latest updates!)_
