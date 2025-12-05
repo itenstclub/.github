@@ -25,7 +25,7 @@
 
 Welcome to the official GitHub repository of the **Network & Security Technology (NST) Club** at **ITE College Central**. 
 
-We are a course-based club of student enthusiasts passionate about all fields of **Cybersecurity*. Our mission is to raise cyber-related awareness, advocate for a safer internet, and equip our members & the public with the skills needed to tackle modern cyber threats. We bridge the gap between classroom theory & real-world application through hands-on workshops, and competitions.
+We are a course-based club of student enthusiasts passionate about all fields of *Cybersecurity*. Our mission is to raise cyber-related awareness, advocate for a safer internet, and equip our members & the public with the skills needed to tackle modern cyber threats. We bridge the gap between classroom theory & real-world application through hands-on workshops, and competitions.
 
 > *"Cyberattacks have become more complex and sophisticated... It is our goal to advocate Cybersecurity Awareness to make the internet a safer environment for everyone."*
 
