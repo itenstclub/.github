@@ -77,3 +77,6 @@ Interested in collaborating, joining, or just want to say hi?
 <div align="center">
   <sub>© Network & Security Technology Club. All rights reserved.</sub>
 </div>
+
+
+<!-- Flag is base64enceded:qefsuusevdi-->
