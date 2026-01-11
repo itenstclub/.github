@@ -59,7 +59,7 @@ We utilize industry-standard tools & environments to sharpen our skills:
 | Event | Date | Location | Status |
 | :--- | :--- | :--- | :--- |
 | **NST Club Bonding Day** | TBD | On-Site | ⏳ Upcoming |
-| **Internal CTF Competition** | TBD | Online | ⏳ Upcoming |
+| **Internal CTF Competition** | 13 Dec 2025 - 15 Jan 2026 | Online | ⏳ Ending Soon! |
 
 _(Stay tuned to our [Instagram](https://instagram.com/itenstclub) for the latest updates!)_
 
